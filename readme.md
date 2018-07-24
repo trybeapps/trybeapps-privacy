@@ -1,5 +1,4 @@
-# FAST.COM Speed Test for Tizen
-
+# AHA!
 
 #### Infomation
 
